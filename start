@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python3 fetch.py
+python3 clone.py
+python3 build.py
