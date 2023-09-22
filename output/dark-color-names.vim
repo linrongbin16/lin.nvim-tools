@@ -26,6 +26,7 @@ let s:colors=[
             \ 'tender',
             \ 'zenburn',
             \ 'seoul256',
+            \ 'monokai',
             \ 'solarized8',
             \ 'solarized8_flat',
             \ 'solarized8_high',
@@ -41,6 +42,7 @@ let s:colors=[
             \ 'material-palenight',
             \ 'material-oceanic',
             \ 'OceanicNext',
+            \ 'vscode',
             \ 'onedark',
             \ 'PaperColor',
             \ 'oxocarbon',
@@ -65,7 +67,6 @@ let s:colors=[
             \ 'gruvbox-material',
             \ 'sonokai',
             \ 'nord',
-            \ 'monokai',
             \ 'srcery',
             \ 'codedark',
             \]

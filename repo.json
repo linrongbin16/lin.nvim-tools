@@ -2,50 +2,50 @@
   "_default": {
     "1": {
       "url": "tomasiser/vim-code-dark",
-      "stars": 847,
-      "last_update": "2023-06-05T16:51:38",
+      "stars": 869,
+      "last_update": "2023-07-18T22:33:59",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "2": {
       "url": "marko-cerovac/material.nvim",
-      "stars": 791,
-      "last_update": "2023-07-06T21:08:22",
+      "stars": 813,
+      "last_update": "2023-07-12T03:27:56",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "3": {
       "url": "bluz71/vim-nightfly-colors",
-      "stars": 635,
-      "last_update": "2023-06-25T13:37:52",
+      "stars": 660,
+      "last_update": "2023-09-01T14:44:15",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "4": {
       "url": "bluz71/vim-moonfly-colors",
-      "stars": 629,
-      "last_update": "2023-06-25T13:37:35",
+      "stars": 657,
+      "last_update": "2023-09-01T15:25:27",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "5": {
       "url": "folke/tokyonight.nvim",
-      "stars": 3800,
-      "last_update": "2023-07-05T17:46:01",
+      "stars": 4100,
+      "last_update": "2023-08-30T00:59:17",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "6": {
       "url": "sainnhe/sonokai",
       "stars": 1300,
-      "last_update": "2023-04-25T03:34:17",
+      "last_update": "2023-08-08T03:52:02",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "7": {
       "url": "nyoom-engineering/oxocarbon.nvim",
-      "stars": 682,
-      "last_update": "2023-06-07T06:06:06",
+      "stars": 758,
+      "last_update": "2023-08-31T06:01:34",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
@@ -58,255 +58,270 @@
     },
     "9": {
       "url": "sainnhe/edge",
-      "stars": 739,
-      "last_update": "2023-04-25T03:42:44",
+      "stars": 767,
+      "last_update": "2023-08-08T03:55:21",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "10": {
       "url": "fenetikm/falcon",
-      "stars": 650,
+      "stars": 662,
       "last_update": "2023-03-12T11:17:37",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "11": {
       "url": "shaunsingh/nord.nvim",
-      "stars": 644,
-      "last_update": "2023-03-26T08:37:57",
+      "stars": 667,
+      "last_update": "2023-08-31T05:59:24",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "12": {
       "url": "navarasu/onedark.nvim",
-      "stars": 1000,
-      "last_update": "2023-06-12T18:09:12",
+      "stars": 1100,
+      "last_update": "2023-09-04T17:35:09",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "13": {
       "url": "sainnhe/gruvbox-material",
       "stars": 1400,
-      "last_update": "2023-04-25T03:15:10",
+      "last_update": "2023-08-08T03:58:28",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "14": {
       "url": "sainnhe/everforest",
-      "stars": 2000,
-      "last_update": "2023-05-19T02:24:18",
+      "stars": 2100,
+      "last_update": "2023-08-08T03:43:00",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "15": {
       "url": "dracula/vim",
-      "stars": 1200,
-      "last_update": "2023-06-20T04:53:16",
+      "stars": 1300,
+      "last_update": "2023-08-31T00:53:37",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "16": {
       "url": "projekt0n/github-nvim-theme",
-      "stars": 1700,
+      "stars": 1800,
       "last_update": "2023-02-17T18:36:49",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "17": {
       "url": "rose-pine/neovim",
-      "stars": 1100,
-      "last_update": "2023-06-21T22:34:13",
+      "stars": 1300,
+      "last_update": "2023-07-29T05:04:08",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "18": {
       "url": "catppuccin/nvim",
-      "stars": 3000,
-      "last_update": "2023-07-06T00:13:08",
+      "stars": 3300,
+      "last_update": "2023-09-11T13:24:54",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "19": {
       "url": "EdenEast/nightfox.nvim",
-      "stars": 2200,
-      "last_update": "2023-05-12T22:33:18",
+      "stars": 2300,
+      "last_update": "2023-09-21T00:52:22",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "20": {
       "url": "rebelot/kanagawa.nvim",
-      "stars": 2600,
-      "last_update": "2023-06-21T16:08:48",
+      "stars": 2800,
+      "last_update": "2023-09-13T15:23:56",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "21": {
       "url": "embark-theme/vim",
-      "stars": 563,
+      "stars": 586,
       "last_update": "2023-04-21T12:25:15",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "22": {
       "url": "ellisonleao/gruvbox.nvim",
-      "stars": 1100,
-      "last_update": "2023-04-23T21:28:31",
+      "stars": 1200,
+      "last_update": "2023-09-20T22:56:43",
       "priority": 100,
       "source": "awesome-neovim#colorscheme"
     },
     "23": {
-      "url": "joshdick/onedark.vim",
-      "stars": 3738,
-      "last_update": "2023-05-03T06:29:07",
+      "url": "morhetz/gruvbox",
+      "stars": 12450,
+      "last_update": "2023-08-14T22:04:06",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "24": {
-      "url": "nlknguyen/papercolor-theme",
-      "stars": 2510,
-      "last_update": "2022-06-09T03:55:49",
+      "url": "joshdick/onedark.vim",
+      "stars": 3765,
+      "last_update": "2023-07-19T13:35:43",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "25": {
-      "url": "nordtheme/vim",
-      "stars": 2411,
-      "last_update": "2023-05-04T04:43:25",
+      "url": "nlknguyen/papercolor-theme",
+      "stars": 2547,
+      "last_update": "2022-06-09T03:55:49",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "26": {
-      "url": "edeneast/nightfox.nvim",
-      "stars": 2235,
-      "last_update": "2023-05-12T22:33:18",
+      "url": "nordtheme/vim",
+      "stars": 2436,
+      "last_update": "2023-05-04T04:43:25",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "27": {
-      "url": "cocopon/iceberg.vim",
-      "stars": 2030,
-      "last_update": "2022-11-23T09:48:02",
+      "url": "edeneast/nightfox.nvim",
+      "stars": 2358,
+      "last_update": "2023-09-21T00:52:22",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "28": {
-      "url": "rakr/vim-one",
-      "stars": 1962,
-      "last_update": "2020-12-15T07:40:35",
+      "url": "cocopon/iceberg.vim",
+      "stars": 2066,
+      "last_update": "2022-11-23T09:48:02",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "29": {
-      "url": "junegunn/seoul256.vim",
-      "stars": 1593,
-      "last_update": "2023-05-03T08:09:09",
+      "url": "rakr/vim-one",
+      "stars": 1969,
+      "last_update": "2020-12-15T07:40:35",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "30": {
-      "url": "sickill/vim-monokai",
-      "stars": 1408,
-      "last_update": "2022-02-09T16:03:39",
+      "url": "junegunn/seoul256.vim",
+      "stars": 1601,
+      "last_update": "2023-05-03T08:09:09",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "31": {
-      "url": "jacoborus/tender.vim",
-      "stars": 1044,
-      "last_update": "2021-05-24T23:38:00",
+      "url": "ku1ik/vim-monokai",
+      "stars": 1417,
+      "last_update": "2022-02-09T16:03:39",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "32": {
-      "url": "lifepillar/vim-solarized8",
-      "stars": 936,
-      "last_update": "2023-06-17T18:57:16",
+      "url": "jacoborus/tender.vim",
+      "stars": 1065,
+      "last_update": "2021-05-24T23:38:00",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "33": {
-      "url": "romainl/apprentice",
-      "stars": 849,
-      "last_update": "2023-02-15T14:48:37",
+      "url": "lifepillar/vim-solarized8",
+      "stars": 946,
+      "last_update": "2023-08-13T17:40:20",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "34": {
-      "url": "jnurmine/zenburn",
-      "stars": 845,
-      "last_update": "2022-08-09T04:44:24",
+      "url": "romainl/apprentice",
+      "stars": 853,
+      "last_update": "2023-02-15T14:48:37",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "35": {
-      "url": "raphamorim/lucario",
-      "stars": 764,
-      "last_update": "2023-06-03T18:10:00",
+      "url": "jnurmine/zenburn",
+      "stars": 852,
+      "last_update": "2022-08-09T04:44:24",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "36": {
-      "url": "srcery-colors/srcery-vim",
-      "stars": 758,
-      "last_update": "2023-04-25T21:37:33",
+      "url": "raphamorim/lucario",
+      "stars": 772,
+      "last_update": "2023-06-03T18:10:00",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "37": {
-      "url": "pineapplegiant/spaceduck",
-      "stars": 736,
-      "last_update": "2022-02-22T03:49:29",
+      "url": "srcery-colors/srcery-vim",
+      "stars": 765,
+      "last_update": "2023-09-05T01:33:15",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "38": {
-      "url": "ajmwagar/vim-deus",
-      "stars": 699,
-      "last_update": "2021-03-28T20:44:13",
+      "url": "pineapplegiant/spaceduck",
+      "stars": 746,
+      "last_update": "2022-02-22T03:49:29",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "39": {
-      "url": "drewtempelmeyer/palenight.vim",
-      "stars": 647,
-      "last_update": "2023-04-27T22:20:24",
+      "url": "ajmwagar/vim-deus",
+      "stars": 716,
+      "last_update": "2021-03-28T20:44:13",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "40": {
-      "url": "preservim/vim-colors-pencil",
-      "stars": 580,
-      "last_update": "2022-05-07T15:40:36",
+      "url": "drewtempelmeyer/palenight.vim",
+      "stars": 645,
+      "last_update": "2023-04-27T22:20:24",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "41": {
-      "url": "kaicataldo/material.vim",
-      "stars": 576,
-      "last_update": "2023-02-10T00:27:06",
+      "url": "preservim/vim-colors-pencil",
+      "stars": 586,
+      "last_update": "2022-05-07T15:40:36",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "42": {
-      "url": "challenger-deep-theme/vim",
-      "stars": 558,
-      "last_update": "2022-04-25T13:18:04",
+      "url": "kaicataldo/material.vim",
+      "stars": 584,
+      "last_update": "2023-02-10T00:27:06",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "43": {
-      "url": "lunacookies/vim-colors-xcode",
-      "stars": 511,
-      "last_update": "2023-06-10T22:24:59",
+      "url": "challenger-deep-theme/vim",
+      "stars": 570,
+      "last_update": "2022-04-25T13:18:04",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     },
     "44": {
       "url": "ghifarit53/tokyonight-vim",
-      "stars": 506,
+      "stars": 519,
       "last_update": "2021-04-23T10:55:12",
+      "priority": 0,
+      "source": "vimcolorschemes.com/top"
+    },
+    "45": {
+      "url": "lunacookies/vim-colors-xcode",
+      "stars": 519,
+      "last_update": "2023-06-10T22:24:59",
+      "priority": 0,
+      "source": "vimcolorschemes.com/top"
+    },
+    "46": {
+      "url": "mofiqul/vscode.nvim",
+      "stars": 508,
+      "last_update": "2023-08-08T23:32:27",
       "priority": 0,
       "source": "vimcolorschemes.com/top"
     }
   }
 }
+
