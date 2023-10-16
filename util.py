@@ -12,8 +12,8 @@ from typing import Optional
 
 from tinydb import Query, TinyDB
 
-STARS = 500
-LASTCOMMIT = 3 * 365 * 24 * 3600  # 3 years * 365 days * 24 hours * 3600 seconds
+STARS = 1000
+LASTCOMMIT = 2 * 365 * 24 * 3600  # 3 years * 365 days * 24 hours * 3600 seconds
 INDENT_SIZE = 4
 INDENT = " " * INDENT_SIZE
 HEADLESS = True
