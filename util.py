@@ -60,13 +60,13 @@ def blacklist(repo) -> bool:
     return any([True for b in blacklists if repo.url.find(b) >= 0])
 
 
-def backup_file(src: pathlib.Path):
-    """backup file"""
-    assert isinstance(src, pathlib.Path)
-    if src.is_symlink() or src.exists():
-        dest = f"{src}.{datetime.datetime.now().strftime('%Y-%m-%d.%H-%M-%S.%f')}"
-        src.rename(dest)
-        logging.debug(f"backup '{src}' to '{dest}'")
+# def backup_file(src: pathlib.Path):
+#     """backup file"""
+#     assert isinstance(src, pathlib.Path)
+#     if src.is_symlink() or src.exists():
+#         dest = f"{src}.{datetime.datetime.now().strftime('%Y-%m-%d.%H-%M-%S.%f')}"
+#         src.rename(dest)
+#         logging.debug(f"backup '{src}' to '{dest}'")
 
 
 def parse_number(payload: str) -> int:
@@ -181,7 +181,7 @@ class RepoConfig:
 
 
 REPO_CONFIG = {
-    "projekt0n/github-nvim-theme": RepoConfig(branch="0.0.x"),
+    # "projekt0n/github-nvim-theme": RepoConfig(branch="0.0.x"),
 }
 
 
